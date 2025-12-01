@@ -1,4 +1,3 @@
-**CAUTION** *WILL YAP ABOUT HYPERFIXATIONS* (homestuck)
 
 
 <div align="center">
@@ -34,11 +33,6 @@ ${\textsf{\color{#d80443}" 𝗧𝗵𝗮𝘁'𝘀 𝘄𝗵𝗮𝘁 𝗜 𝗰𝗮�
 
 <div/>
 
-<!-- ting -->
-<div align="right">
-
-hey good lookin' ;)
-
 <!-- main -->
 
 <div align="center">
@@ -46,7 +40,7 @@ hey good lookin' ;)
 
 
 
-${\textsf{\color{#0067ff}﹕ @miraclecures ₊ }}$
+${\textsf{\color{#0067ff}﹕ @ kasper/kas/ivan ₊ }}$
 
 
 ${\textsf{\color{#0067ff}   ★ ‎ ‎‎ ‎ ‎he / any ‎ ‎‎ ‎ ‎ : ‎ ‎‎ ‎ ‎infp-t ‎‎ ˙ᵕ˙}}$
@@ -89,7 +83,7 @@ ${\textsf{\color{#0067ff}   ★ ‎ ‎‎ ‎ ‎he / any ‎ ‎‎ ‎ ‎ : 
 
 <!-- links -->
 
-[1](https://miraclecures.carrd.co/) ‎ ‎‎ ‎ ‎[2](https://pronouns.cc/@miraclecures) ‎ ‎‎ ‎ [3](https://guns.lol/miraclecures)
+[1](https://cautioncare.carrd.co/) ‎ ‎‎ ‎ ‎[2](https://pronouns.cc/@miraclecures) ‎ ‎‎ ‎ [3](https://guns.lol/miraclecures)
 
 
 
